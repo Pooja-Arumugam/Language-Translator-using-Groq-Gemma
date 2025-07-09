@@ -1,0 +1,5 @@
+1. Created an account on groq lpu
+2. download all libraries from requirements.txt
+3. To learn language transalation using groq and gemma follow the simplellm ipynb file.
+4. To implement it using streamlit follow the app.py file.
+5. Make sure to store you api keys in .env file before running the codes.
