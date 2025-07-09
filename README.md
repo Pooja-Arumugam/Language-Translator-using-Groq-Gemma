@@ -50,11 +50,12 @@ Set Environment Variables
 ```
 ---
 ## File Structure
+```bash
 ├── app.py                  # Main Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── .env                    # Environment variables (add manually)
 ├── steps involved.txt      # Project execution steps and logic
-
+```
 ---
 ## How It Works
 1. UI Layer
