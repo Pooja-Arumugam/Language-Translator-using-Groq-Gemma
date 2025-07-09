@@ -65,7 +65,7 @@ Set Environment Variables
 - A ChatPromptTemplate is created using langchain_core.prompts.
 
 3. Model Selection
-- Groq's ChatGroq is initialized with the Gemma model (e.g., gemma-7b-it).
+- Groq's ChatGroq is initialized with the Gemma model (e.g., Gemma2-9b-it).
 
 4. Response Handling
 - Output is parsed using StrOutputParser and displayed back in the UI.
