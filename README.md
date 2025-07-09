@@ -28,23 +28,24 @@ A sleek, Streamlit-based language translation app powered by **LangChain** and *
    ```bash
    git clone https://github.com/Pooja-Arumugam/Language-Translator-using-Groq-Gemma.git
    cd Language-Translator-using-Groq-Gemma
+   ```
 
 2. **Create and Activate Virtual Environment**
  ```bash
  python -m venv venv
  source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+ ```
 3. **Install Required Packages**
-
- ```bash
+  ```bash
 pip install -r requirements.txt
 Set Environment Variables
-
+```
 4. **Create a .env file in the root directory.**
      ```bash
      Add your Groq API key:
      GROQ_API_KEY=your_api_key_here
-
+```
  5. **Run the Streamlit App**
        ```bash
      streamlit run app.py
+```
