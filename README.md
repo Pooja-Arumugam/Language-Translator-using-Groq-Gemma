@@ -4,10 +4,10 @@ A sleek, Streamlit-based language translation app powered by **LangChain** and *
 
 ## Project Highlights
 
-- Translates text across multiple languages
-- Ultra-fast inference with Groq LPU
-- Built using LangChain and Groq’s integration for seamless LLM interaction
-- Simple and intuitive UI via Streamlit
+- Translates text across multiple languages.
+- Ultra-fast inference with Groq LPU.
+- Built using LangChain and Groq’s integration for seamless LLM interaction.
+- Simple and intuitive UI via Streamlit.
 ---
 
 ## Tech Stack
